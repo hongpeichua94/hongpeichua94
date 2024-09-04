@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./github_banner.jpg">
+<img src="./profile_banner.jpg">
 </br>
 <div align="center">
 <h3>Programming Languages:</h3>
