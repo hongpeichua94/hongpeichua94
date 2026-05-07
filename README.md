@@ -2,7 +2,7 @@
 <img src="./profile_banner.jpg">
 </div>
 
-
+<!----
 ### Technologies and tools I use: 
 <div align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
@@ -26,7 +26,6 @@
 
 
 </br>
-<!----
 <h3> Let's connect!</h3>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/chuahongpei/">
